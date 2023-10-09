@@ -6,6 +6,8 @@
 This project was made following the [react tutorial](https://react.dev/learn/tutorial-tic-tac-toe). 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
+This starter app was instantiated by running `npx create-react-app <name_of_app>`
+
 ## Available Scripts
 
 In the project directory, you can run:

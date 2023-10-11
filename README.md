@@ -8,6 +8,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This starter app was instantiated by running `npx create-react-app <name_of_app>`
 
+## To Run a Dev Build
+To run a dev server that constantly refreshes with your changes live:
+```
+npm start
+```
+
+## To run a production build:
+First install the correct library: `npm install -g serve`
+```
+npm build
+serve -s build
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
